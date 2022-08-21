@@ -4,6 +4,8 @@ In this example, we will query the data to find infection rate by country, death
 
 The tools I'm using are Microsoft SQL Server for querying data from the dataset and Tableau for data visualization.
 
-In Covid_SQL_Dataset to Covid_SQL_Dataset.sql, you can find all the queries that explore the dataset. The purpose of this is to understand the dataset and create a working plan.
+In Covid_SQL_Dataset, you will find all the queries that explore the dataset. 
 
-In tableau_SQL_views, you can find all the queries that create tables for my Tableau Visualization.
+In tableau_SQL_views, you will find all the queries that create tables for my Tableau Visualization.
+
+You can view the dashboard I created in Tableau reflecting the queried dataset with the following link: https://public.tableau.com/app/profile/hunter.sheffield/viz/CovidDashboard_16591265846130/CovidDashboard
