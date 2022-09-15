@@ -1,4 +1,4 @@
-In this project you may find my SQL code and Tableau dashboard sample. The purpose of this project is to explore the Covid-19 dataset found . The dataset is downloaded from https://ourworldindata.org/coronavirus. 
+In this project you may find my SQL code and Tableau dashboard sample. The purpose of this project is to explore the Covid-19 dataset downloaded from https://ourworldindata.org/coronavirus. 
 
 In this example, we will query the data to find infection rate by country, death count by country, death rate by country, total percent vaccinated by country, and rolling percent vaccinated by country. 
 
